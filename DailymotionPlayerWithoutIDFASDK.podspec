@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'DailymotionPlayerWithoutIDFASDK'
-  s.version          = '3.10.0'
+  s.version          = '3.10.1'
   s.summary          = 'Dailymotion iOS player without IDFA (Swift)'
   s.homepage         = 'https://github.com/arnaud512/dailymotion-swift-player-sdk-ios-without-idfa'
   s.author           = 'Dailymotion'
