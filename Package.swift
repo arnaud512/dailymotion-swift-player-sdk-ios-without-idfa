@@ -2,14 +2,14 @@
 import PackageDescription
 
 let package = Package(
-    name: "DailymotionPlayerSDK",
+    name: "DailymotionPlayerWithoutIDFASDK",
     platforms: [.iOS("8.0")],
     products: [
-        .library(name: "DailymotionPlayerSDK", targets: ["DailymotionPlayerSDK"])
+        .library(name: "DailymotionPlayerWithoutIDFASDK", targets: ["DailymotionPlayerWithoutIDFASDK"])
     ],
     targets: [
         .target(
-            name: "DailymotionPlayerSDK",
+            name: "DailymotionPlayerWithoutIDFASDK",
             path: "DailymotionPlayerSDK"
         )
     ]
